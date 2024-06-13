@@ -12,7 +12,7 @@ python3 -m venv venv
 Install requirements.txt file, available in root path.
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Run __main__.py
